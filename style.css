@@ -41,12 +41,14 @@ section{
   background-image: url('flor.jpg');
   background-repeat: no-repeat;
   background-position: center center;
+  background-attachment: fixed;
   background-size: cover;
 }
 #livro{
   background-image: url('livro.jpg');
   background-repeat: no-repeat;
   background-position: center center;
+  background-attachment: fixed;
   background-size: cover;
 }
 footer{
